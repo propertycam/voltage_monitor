@@ -1,6 +1,6 @@
 # Voltage Monitor Example
 
-## Descirption:
+## Description:
 
 	This code uses a voltage divider to measure the battery voltage using the 
 	analog input pin on the Arducam ESP8266 Uno board.
